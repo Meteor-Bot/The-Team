@@ -1,20 +1,10 @@
   <center><a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"></a></center>
 
- <div align=center>
-
-  <a href="https://discord.gg/29Xhwv4guT">
-    <img src="https://discordapp.com/api/guilds/733807204938940447/widget.png?style=shield" alt="shield.png">
-  </a>
-  
-  
-<br>
-<br>
-
- :warning: **All our work is licensed so don't forget to give us credits!**
+ :warning: **Make sure to check out our Meteor ToS repository!**
 
 <br><br>
 
-## ✨ Dark Developers 
+## 🌠 Meteor Developers 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/DeltaCoderr/Covid-19-Tracker)&nbsp;
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
