@@ -37,12 +37,10 @@
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/sniper19p"><img src="https://avatars3.githubusercontent.com/u/67769442?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Sniper19! ✨</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DeltaCoderr" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/sniper19p"><img src="https://avatars3.githubusercontent.com/u/67769442?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Sniper19! ✨</b></sub></a><br /><a href="https://github.com/sniper19p" title="Developer">💻</a></td>
      <td align="center"><a href="https://github.com/DarkBoy-js"><img src="https://avatars1.githubusercontent.com/u/69737561?s=460&u=6c689247ee40ff206847e5e982e0ec8eaafc6ecf&v=4" width="100px;" alt=""/><br /><sub><b>Egghead 🍭</b></sub></a><br /><a href="https://github.com/EggyOnCrack" title="Founder">💻</a></td>
-     <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/69770663?s=400&u=36114e7f2420e48c3fbe622849e4cf35c710bb94&v=4" width="100px;" alt=""/><br /><sub><b>DarkNoah</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkNoahDev" title="Developer">💻</a></td>
-       <td align="center"><a href="https://github.com/Creator-cmd"><img src="https://cdn.discordapp.com/avatars/730431456006111323/a_cef1312dd7225f83abc06e170142777e.gif?size=1024" width="100px;" alt=""/><br /><sub><b>Creator🌙</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=Creator-cmd" title="Developer">💻</a></td>
- <td align="center"><a href=="https://github.com/Creator-cmd"><img src="https://cdn.discordapp.com/avatars/581752425858203659/afe35f70664bb89a92f8be8615e63873.png?size=1024" width="100px;" alt=""/><br /><sub><b>ImPoStoR</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=sujalgoel" title="Developer">💻</a></td>
-    <td align="center"><a href="https://github.com/Anime-pdf"><img src="https://cdn.discordapp.com/avatars/389343709986160642/a_04a8f05cbbd6aa6eb0916ce4e1a0bd9b.gif?size=1024" width="100px;" alt=""/><br /><sub><b>uwu</b></sub></a><br /><a href="https://github.com/Anime-pdf/Invite-Manager-Discord" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/73409599?s=460&u=97bc4481af1a13a3122f130227639d1c6517170e&v=4" width="100px;" alt=""/><br /><sub><b>Rad</b></sub></a><br /><a href="https://github.com/RadicalDev0415" title="Developer">💻</a></td>
+       <td align="center"><a href="https://github.com/Akiinow"><img src="https://avatars0.githubusercontent.com/u/56259891?s=460&u=eb55ab01e2bbaa330ccc32ee579b596c85a2ce9d&v=4" width="100px;" alt=""/><br /><sub><b>Akiinow</b></sub></a><br /><a href="https://github.com/Akiinow" title="Developer">💻</a></td>
   </tr>
   
 </table>
