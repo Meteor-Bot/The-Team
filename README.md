@@ -1,4 +1,6 @@
   <center><a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"></a></center>
+  
+  <div align=center>
 
  :warning: **Make sure to check out our Meteor ToS repository!**
 
