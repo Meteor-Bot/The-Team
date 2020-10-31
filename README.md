@@ -6,8 +6,7 @@
 
 <br><br>
 
-## 🌠 Meteor Developers 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/DeltaCoderr/Covid-19-Tracker)&nbsp;
+## 🌠 Meteor Developers
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
