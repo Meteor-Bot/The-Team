@@ -80,3 +80,5 @@
 
 <a href="https://discord.gg/29Xhwv4guT"><img src="https://discordapp.com/api/guilds/769706317312557071/embed.png?style=banner3"/></a>
 <br><br>
+
+<a href="https://discord.gg/29Xhwv4guT"><img src="https://discordapp.com/api/guilds/769706317312557071/embed.png?style=banner3"/></a>
