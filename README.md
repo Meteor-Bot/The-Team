@@ -2,22 +2,8 @@
 
  <div align=center>
 
-  <a href="https://discord.gg/SaGJ8hz">
+  <a href="https://discord.gg/29Xhwv4guT">
     <img src="https://discordapp.com/api/guilds/733807204938940447/widget.png?style=shield" alt="shield.png">
-  </a>
- 
- <a href="https://github.com/TeamDarkDevs">
-    <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
-  </a>
-  
-  
-  <a href="https://github.com/TeamDarkDevs/DarkDevelopers/LISENCE">
-    <img src="https://img.shields.io/badge/license-GNU%20GPL%20v3-green" alt="shield.png">
-  </a>
-  
-    
-  <a href="https://github.com/TeamDarkDevs/DarkDevelopers">
-    <img src="https://visitors-badge.glitch.me/badge?page_id=TeamDarkDevs.TeamDarkDevs" alt="shield.png">
   </a>
   
   
