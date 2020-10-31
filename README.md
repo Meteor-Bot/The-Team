@@ -54,4 +54,6 @@
 ## 📝 Our Discord Servers
 
 <a href="https://discord.gg/29Xhwv4guT"><img src="https://lh3.googleusercontent.com/kkhy94bRqfYikCQb1Cv7SXc8h8Iqboqp5Pl0EDM9YBVNWRvJMJZBX6dCNU06a_fDwbT4JQ=s85"/></a>
+
+<a href="https://discord.gg/29Xhwv4guT"><img src="https://discordapp.com/api/guilds/769706317312557071/embed.png?style=banner3"/></a>
 <br><br>
