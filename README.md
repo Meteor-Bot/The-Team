@@ -78,7 +78,5 @@
 
 ## 📝 Our Discord Servers
 
-<a href="https://discord.gg/devs"><img src="https://discordapp.com/api/guilds/733807204938940447/embed.png?style=banner3"/></a>
+<a href="https://discord.gg/29Xhwv4guT"><img src="https://discordapp.com/api/guilds/769706317312557071/embed.png?style=banner3"/></a>
 <br><br>
-
-<a href="https://discord.gg/D5hpx9p"><img src="https://discordapp.com/api/guilds/765274736157524019/embed.png?style=banner3"/></a>
