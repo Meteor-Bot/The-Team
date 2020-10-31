@@ -78,7 +78,5 @@
 
 ## 📝 Our Discord Servers
 
-<a href="https://discord.gg/29Xhwv4guT"><img src="https://lh3.googleusercontent.com/wjhe9pPyIsh4eQp61fCzGAbQZbLFhCMEBu14s6y_sT6f9BTfKHq6_8FAuntyww5age3Oyw=s170"/></a>
+<a href="https://discord.gg/29Xhwv4guT"><img src="https://lh3.googleusercontent.com/kkhy94bRqfYikCQb1Cv7SXc8h8Iqboqp5Pl0EDM9YBVNWRvJMJZBX6dCNU06a_fDwbT4JQ=s85"/></a>
 <br><br>
-
-<a href="https://discord.gg/29Xhwv4guT"><img src="https://lh3.googleusercontent.com/wjhe9pPyIsh4eQp61fCzGAbQZbLFhCMEBu14s6y_sT6f9BTfKHq6_8FAuntyww5age3Oyw=s170"/></a>
